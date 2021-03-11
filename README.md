@@ -1,3 +1,5 @@
+# Preview
+![Preview](https://www.weirdbandkid.tk/img/rpc.PNG)
 # Installation
 `git clone https://github.com/weirdbandkid/discordrpc.git`
 
