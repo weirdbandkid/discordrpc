@@ -1,6 +1,8 @@
 # Installation
 `git clone https://github.com/weirdbandkid/discordrpc.git`
+
 `cd discordrpc`
+
 `node .`
 
 # Need Help?
