@@ -5,6 +5,8 @@
 
 `cd discordrpc`
 
+***I suggest that you change the ID, images, and text in the `index.js` file
+
 `node .`
 
 # Need Help?
