@@ -12,7 +12,10 @@ rpc.on("ready", () => {
         largeImageText: "Text 1",
         smallImageKey:"github", //must match images in the application
         smallImageText: "Text 2",
-        
+                buttons: [
+            { label: "Text1", url: "URL1" },
+            { label: "Text2", url: "URL2" }
+        ]
     });
     console.log("Rich Presence is now active");
 })
