@@ -1,4 +1,4 @@
-name: "release"
+name: "build1"
 
 on:
   push:
