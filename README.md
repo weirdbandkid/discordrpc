@@ -1,3 +1,6 @@
+# Build Info
+[![Code Test](https://github.com/weirdbandkid/discordrpc/actions/workflows/main.yml/badge.svg)](https://github.com/weirdbandkid/discordrpc/actions/workflows/main.yml)
+
 # Preview
 ![Preview](https://www.weirdbandkid.tk/img/rpc.PNG)
 # Installation
