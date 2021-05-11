@@ -1,5 +1,6 @@
 # Build Info
-[![Code Test](https://github.com/weirdbandkid/discordrpc/actions/workflows/main.yml/badge.svg)](https://github.com/weirdbandkid/discordrpc/actions/workflows/main.yml)
+[![Testing Release](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_testing.yml/badge.svg)](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_testing.yml)
+[![Main Release](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_main.yml/badge.svg)](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_main.yml)
 
 # Preview
 ![Preview](https://www.weirdbandkid.tk/img/rpc.PNG)
