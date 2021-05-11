@@ -2,6 +2,11 @@
 [![Testing Release](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_testing.yml/badge.svg)](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_testing.yml)
 [![Main Release](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_main.yml/badge.svg)](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_main.yml)
 
+# Code Review (on main)
+![Code Quality](https://www.code-inspector.com/project/22490/score/svg)
+![Code Grade](https://www.code-inspector.com/project/22490/status/svg)
+
+
 # Preview
 ![Preview](https://www.weirdbandkid.tk/img/rpc.PNG)
 # Installation
