@@ -1,13 +1,13 @@
-name: "tagged-release"
+name: "Main Release"
 
 on:
   push:
-    tags:
-      - "v*"
+    branches:
+      - "main"
 
 jobs:
-  tagged-release:
-    name: "Tagged Release"
+  release:
+    name: "Release"
     runs-on: "ubuntu-latest"
 
     steps:
@@ -15,8 +15,8 @@ jobs:
       - name: "Build & test"
         run: |
           echo "done!"
-
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
           prerelease: false
