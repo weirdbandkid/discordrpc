@@ -1,15 +1,18 @@
-# Build Info
+# This repo has been moved [here](https://ptb.discord.com/api/webhooks/825440459751948378/jP1zLxNSEexJemg_SQ3c85kZmBbT-aTWiBWumQh5yeVeosS1DYHyKyBto1Z1UwNpyLN1/github)
+
+
+## Build Info
 [![Testing Release](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_testing.yml/badge.svg)](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_testing.yml)
 [![Main Release](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_main.yml/badge.svg)](https://github.com/weirdbandkid/discordrpc/actions/workflows/release_main.yml)
 
-# Code Review (on main)
+## Code Review (on main)
 ![Code Quality](https://www.code-inspector.com/project/22490/score/svg)
 ![Code Grade](https://www.code-inspector.com/project/22490/status/svg)
 
 
-# Preview
+## Preview
 ![Preview](https://www.weirdbandkid.tk/img/rpc.PNG)
-# Installation
+## Installation
 `git clone https://github.com/weirdbandkid/discordrpc.git`
 
 `cd discordrpc`
@@ -18,10 +21,10 @@
 
 `node .`
 
-## Do you want an `.exe` file? 
+### Do you want an `.exe` file? 
 DM me on Discord if you want one! 
 Only thing I need to set it up is the file location.
 
-# Need Help?
+## Need Help?
 Message `weirdbandkid#6833` on Discord for Help
 
