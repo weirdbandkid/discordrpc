@@ -1,4 +1,4 @@
-# This repo has been moved [here](https://ptb.discord.com/api/webhooks/825440459751948378/jP1zLxNSEexJemg_SQ3c85kZmBbT-aTWiBWumQh5yeVeosS1DYHyKyBto1Z1UwNpyLN1/github)
+# This repo has been moved [here](https://github.com/weirdbandkid-games/discordrpc)
 
 
 ## Build Info
